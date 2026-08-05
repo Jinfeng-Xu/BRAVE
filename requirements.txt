@@ -1,0 +1,9 @@
+torch>=2.4.1
+openai>=1.54.0
+ollama == 0.3.3
+azure-ai-inference
+azure-core
+numpy
+python-dotenv
+pandas
+rapidfuzz
