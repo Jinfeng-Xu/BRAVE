@@ -101,6 +101,15 @@ python main.py \
 - Allocator diagnostics: `log/{dataset}/selected_*.diagnostics.csv`
 - Optional offline allocator results: `results/brave_selected_users/`
 
-## Citation
+## Citing BRAVE
 
-The BibTeX entry will be added after acceptance.
+If you find BRAVE useful in your research, please consider citing our [paper](https://arxiv.org/pdf/2611.19847v1).
+
+```
+@article{xu2026reflection,
+  title={Reflection Is Not Always Worth It: Budgeted Reflection Allocation for Recommendation Agents},
+  author={Xu, Jinfeng and Chen, Zheyu and Peng, Ziyue and Tang, Jianheng and Lin, Zheng and Yuan, Wenhao and Chen, Jian and Li, Shujie and Leung, Victor},
+  journal={arXiv preprint arXiv:2611.19847},
+  year={2026}
+}
+```
